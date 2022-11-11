@@ -4,23 +4,21 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+    overflow: hidden;
     
 }
 
 .logo{
     margin-bottom: -100px;
     padding-left: 20px;
-
+    cursor: pointer;
 }
 
 
 body{
-    /* padding-top: 10px;
-   
+    /* padding-top: 10px; */
     padding-left: 100px;
-    padding-bottom: 0; */
-    padding-right: 10px;
+    padding-bottom: 0;
     margin: 0;
     padding: 0;
     margin: 0 auto;
@@ -77,14 +75,14 @@ button{
 }
 
 .starbucks{
-    width: 250px;
+    width: 350px;
 }
 
 .botao-menu{
     width: 90px;
     transition: 0.9s;
     cursor: pointer;
-    margin: 20px;
+    margin-top: 57px;
 }
 
 .botao-menu:hover{
